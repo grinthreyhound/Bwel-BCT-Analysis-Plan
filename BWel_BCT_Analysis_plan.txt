@@ -1,0 +1,41 @@
+PREDICTIONS
+
+Title: What makes GP opportunistic interventions effective? A behaviour change technique analysis of 251 GP-delivered brief interventions for weight loss – analysis plan.
+
+Authors: Jana Bourhill, Joe Lee, Kirsten Frye, David McCartney, Ben Fletcher, Paul Aveyard, Charlotte Albury.
+
+Introduction: This research aims to identify specific Behavioural Change Techniques (BCTs) that are associated with patient agreement to a referral to a commercial weight management programme, and their subsequent attendance. We also intend to evaluate the association between GP fidelity to the study training video and patient agreement and attendance. The following questions will be investigated: 
+-	How do particular BCTs correlate with agreement to referral and patient attendance at commercial weight management programmes?
+-	Do interactions between specific BCTs, namely biofeedback and health consequences, affect outcomes?
+-	Did GP fidelity to the training video improve patient agreement to referral and attendance at commercial weight management programmes?
+
+Methods: 
+
+Datasource and processing; Our research uses examines 237 consultation recordings collected as part of the brief Interventions for weight loss (BWeL) trial. In this trial, patients with a BMI>30 who were not actively seeking to lose weight, were randomized to receive a brief free referral to a commercial weight management programme at the end of a typical consultation with their GP. Consultation recordings were transcribed verbatim and coded using the BCT taxonomy .  Three coders initially coded 20 consultation interventions independently. All three coders then met, discussed the interventions they had coded, and agreed on a comprehensive coding framework. Disagreements were resolved through discussion. The lead researcher (JB) then coded all remaining consultations in line with the coding framework.  One researcher (CA) coded a further 10 through the process to ensure the lead researcher had not deviated from the agreed coding framework.  During the coding process, coders constructed and continuously updated a code book that contained detailed definitions and examples to illustrate each technique.  Coders were blinded to the associated patient data. 
+
+Exposure: We identified the presence of BCTs that appear at least once in the 237 transcribed recordings of consultations from the intervention group. We decided to exclude BCTs that were used in less than 3% of the consultations as these are too sparse for further analysis. We will conduct a statistical analysis to examine the effectiveness of the BCTs that were used in more than 3% of the consultations (8 consultations). 
+Fidelity to the trial training video is the second exposure. We have identified 9 BCTs that are used in the BWeL training video that was watched by GPs participating in the BWeL trial. We intend to analyse how well the BCTs used in the consultations reflect those that were recommended, by scoring consultations on a 0-9 scale according to their use of the 9 recommended BCTs. 
+
+Outcomes: Our primary outcome is patient attendance at commercial weight management groups. Our secondary outcome is patient agreement to attend these services.  These outcomes were obtained from the original BWeL trial and analysis of the consultation respectively. 
+
+Covariates: The analysis will be adjusted for the patient’s age, initial BMI, gender, index of multiple deprivation score and which GP delivered the intervention. 
+
+Statistical Analysis:
+
+We will perform descriptive statistics, and examine the BCTs for co-linearity. The highly co-linear BCTs will be examined further by uni-variate analysis and bi-variate analysis, combining the correlated BCTs. Where necessary, highly correlated BCTs will be grouped. 
+
+
+Our three main research questions are:
+
+1.	How do particular BCTs correlate with agreement to referral and patient attendance at commercial weight management programmes?
+
+We will use logistic regression to obtain odds ratios, 95% confidence intervals and p values for each of the BCTs. We will calculate a crude association as well as a multi-variable mixed effects estimates adjusted for patient age, sex, BMI, index of multiple deprivation score and a random effects term for GP delivery. We will repeat this for both of the outcomes. 
+
+2.	Is there evidence that interactions between specific BCTs affects outcomes? 
+
+The second research question will look at whether a specific pair of BCTs are more or less effective at improving patient agreement and attendance, compared to what we would expect based on their individual correlation coefficients. The pair of BCTs we intend to research is health consequences and biofeedback. We will use an interaction term in the model as described above. 
+
+3.	Did GP fidelity to the training video improve patient agreement to referral and attendance at commercial weight management programmes?
+
+We identified 9 BCTs that are recommended in the training video that was given to GPs who participated in the BWeL trial. The third research question will evaluate the fidelity of the GPs, by scoring them 0-9 based on how many of these recommended BCTs they use in practice. We intend to assess the association between this score and patient agreement and attendance at the commercial weight management programme – we will first do a crude analysis, followed by an adjusted analysis using the pre-specified co-variates as above. We will repeat this process for both outcomes. 
+In a further stage of analysis, we will examine interaction between the use of biofeedback and information about health consequences (not recommended) and fidelity. 
